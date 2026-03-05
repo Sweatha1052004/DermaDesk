@@ -1,0 +1,4 @@
+litellm
+mysql-connector-python
+python-dotenv
+flask
